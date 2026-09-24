@@ -2,7 +2,7 @@
 
 **Autor:** Fabio Pérez Gutiérrez
 **Curso:** Ingeniería de Software I · SIS3407
-**Entrevistada:** Ricardo Antonio Vargas Cremades, en el papel de jefa de enfermería de urgencias
+**Entrevistado:** Ricardo Antonio Vargas Cremades, en el papel de jefe de urgencias de enfermería
 **Fecha de la entrevista:** 22/09/2026
 **Duración:** 30 minutos
 
