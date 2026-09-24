@@ -2,8 +2,8 @@
 
 **Autor:** Fabio Pérez Gutiérrez
 **Curso:** Ingeniería de Software I · SIS3407
-**Entrevistada:** [nombre de tu dupla], en el papel de jefa de enfermería de urgencias
-**Fecha de la entrevista:** [fecha]
+**Entrevistada:** Ricardo Antonio Vargas Cremades, en el papel de jefa de enfermería de urgencias
+**Fecha de la entrevista:** 22/09/2026
 **Duración:** 30 minutos
 
 **Objetivo:** entender cómo se organiza hoy la fila de pacientes en urgencias y verificar los requisitos que estábamos suponiendo.
