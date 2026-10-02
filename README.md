@@ -1,4 +1,5 @@
 # MediFlow
 Repositorio para llevar el progreso y desarrollo del sistema MediFlow.
-enlace: https://www.figma.com/make/nrkTsWjtU8PXDGl2ZvVjhG/Recrear-dise%C3%B1o-existente?t=QHuIGZ6VeWbkZoV4-1
+https://www.figma.com/make/nrkTsWjtU8PXDGl2ZvVjhG/MediFlow?fullscreen=1&t=1XEQY6VCC2IMFIVr-1&code-node-id=0-6
+
 
